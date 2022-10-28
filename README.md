@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# PasswordGenerator
 
-This project was based on[Create React App](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh).
+This project was based on [ FrontEnd mentor challenger](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh).
 
