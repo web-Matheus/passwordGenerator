@@ -1,4 +1,8 @@
 # PasswordGenerator
 
-This project was based on [ FrontEnd mentor challenger](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh).
+## Gere senhas de forma segura;
+PassWordGenerator é um site para ajudar você a gerar senha de forma segura. 
+![Project image](assets/screenshot.png)
+
+Esse projeto foi baseado no desafio do [ FrontEnd mentor challenger](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh).
 
