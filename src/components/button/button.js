@@ -6,7 +6,8 @@ import Seta from '../../assets/seta.png'
 const Button = () => {
   return (
     <div className='button'>
-        <button>Generate <img src={Seta}/></button>
+        <button
+        >Generate <img src={Seta}/></button>
     </div>
   )
 }

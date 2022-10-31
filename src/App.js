@@ -5,6 +5,7 @@ import Password from './components/passwordfield/password';
 
 function App() {
   const [lenghtpassword, setLenghtpassword] = useState(0);
+
   return (
     <div>
      
@@ -38,7 +39,8 @@ function App() {
           <label>Include Symbols</label>
         </div>
       </form>
-        <Button/>
+        <Button 
+        lenghtpassword={lenghtpassword}/>
      </section>
     </div>
   );
